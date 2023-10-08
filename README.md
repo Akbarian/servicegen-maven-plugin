@@ -1,0 +1,1 @@
+# servicegen-maven-plugin
